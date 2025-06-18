@@ -3,3 +3,5 @@ lf.exe
 tags
 dist/
 vendor/
+.vscode/
+*.exe
